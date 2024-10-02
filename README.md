@@ -1,2 +1,1 @@
-<h1>Hello</h1>
-<iframe src="https://giphy.com/embed/DHBGehJ3FSZEygszX3" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixelart-pixelplanet-pixelplanettoday-DHBGehJ3FSZEygszX3">via GIPHY</a></p>
+<img src="https://example.com/image.jpg](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmczNnc5bndidzRtcmIydmdzaDZ4c2Jpb3Nnb3NsOGh2YTJxNHlkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHBGehJ3FSZEygszX3/giphy.gif" alt="An example image">
