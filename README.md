@@ -1,2 +1,2 @@
 <h1>Hello</h1>
-<img src="https://example.com/image.jpg](https://media2.giphy.com/media/DHBGehJ3FSZEygszX3/giphy.webp?cid=ecf05e472zh544cpwtn2pthwyuosgmmljbj7genuypm6nmr6&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="An example image">
+<iframe src="https://giphy.com/embed/DHBGehJ3FSZEygszX3" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixelart-pixelplanet-pixelplanettoday-DHBGehJ3FSZEygszX3">via GIPHY</a></p>
